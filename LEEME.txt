@@ -1,0 +1,3 @@
+# Tecnologia
+-Android studio
+-SDK Oreo
